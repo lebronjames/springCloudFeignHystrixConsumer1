@@ -33,3 +33,7 @@ spring.application.name=feign-hystrix-consumer
 server.port=3633
 eureka.client.serviceUrl.defaultZone=http://localhost:1111/eureka/
 
+
+Feign增加断路器Hystrix请求服务地址：
+http://10.5.2.241:3633/add
+http://localhost:3633/add

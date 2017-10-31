@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: feign-hystrix-consumer
+server:
+  port: 3633
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://10.5.2.241:1111/eureka/
