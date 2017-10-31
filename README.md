@@ -1,0 +1,2 @@
+# springCloudFeignHystrixConsumer1
+Feign中使用Hystrix，实现服务消费断路器功能
